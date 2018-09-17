@@ -36,7 +36,7 @@ const router =  new Router({
       	{
       	  path: '/three',
           name: 'three',
-          alias:'第三页',
+          alias:'第三页啊啊',
           component: Three
       	}
       ]
